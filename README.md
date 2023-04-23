@@ -11,3 +11,6 @@ because the discord keeps changing their api and so discord.js api have to adapt
 
 # Do you plan continuing this on this project?
 I'm planing to continuing this passion project in the mean time, so stay tuned!
+
+# Why does your discord bot token still there?
+nah don't worry I've change it so no one can access my bot directly
